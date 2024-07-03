@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.gocards",
+      "sha256_cert_fingerprints": [
+        "F0:BF:0E:46:80:10:E5:7A:3C:12:5A:33:0A:87:DE:7F:45:F0:32:57:36:B4:CE:1D:C8:93:45:42:4D:E9:FA:6E"
+      ]
+    }
+  }
+]
